@@ -8,6 +8,8 @@ http://www.111111111111111111111111111111111111111111111111111111111111.cn/
 
 >或者Fork  `https://github.com/LoeiFy/Mirror`
 
+>2017.4.17更换程序 ∑(っ°Д°;)っ
+
 <del>原版默认的css样式难看~估计作者随便写一下就撤退了，我只好百度css美化了改成现在这样子了~~</del>
 
 ![雷锋](https://imgsa.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=6636d4914b540923be646b2cf331ba6c/b21bb051f8198618ddfdc53648ed2e738ad4e6ce.jpg)
