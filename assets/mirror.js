@@ -78,10 +78,12 @@ var _template = {
                     '<article class="content">'+ marked(data.body) +'</article>'+
                     '</section>'+ comment;
             
+			
+			title = document.getElementById('title');
+            title.innerText = data.title+'六十一のメモ帳'; 
+			
             return issue
 			
-			var title = document.getElementById('title');
-                title.innerText = data.title+'六十一のメモ帳'; 
 			
     },
 
