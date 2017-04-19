@@ -79,6 +79,10 @@ var _template = {
                     '</section>'+ comment;
             
             return issue
+			
+			var title = document.getElementById('title');
+                title.innerText = data.title+'六十一のメモ帳'; 
+			
     },
 
     comments: function(data) {
